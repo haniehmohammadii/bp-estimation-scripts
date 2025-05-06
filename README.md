@@ -1,4 +1,4 @@
-# bp-estimation-scripts
+# BP-estimation-scripts
 This repository contains selected scripts for reproducing the main results of our blood pressure estimation study.
 
 🔍 **Note:** To maintain research integrity while protecting implementation details, we have only published key parts of the code required for main result reproduction.
